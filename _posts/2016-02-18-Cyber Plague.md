@@ -8,6 +8,6 @@ tags: Unity C# GameJam
 featured_image: '/img/posts/CyberPlague.gif'
 project_link: 'https://ikkiren.itch.io/cyber-plague'
 button_icon: 'itch-io'
-button_text: 'Visit Project'
+button_text: 'Visit Game Page'
 lead_text: "A strategic game where you evolve your virus throught 3 different skill tree to infect a whole building"
 ---
