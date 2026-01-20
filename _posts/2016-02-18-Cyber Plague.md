@@ -9,5 +9,5 @@ featured_image: '/img/posts/CyberPlague.gif'
 project_link: 'https://ikkiren.itch.io/cyber-plague'
 button_icon: 'itch-io'
 button_text: 'Visit Game Page'
-lead_text: "A strategic game where you evolve your virus throught 3 different skill tree to infect a whole building"
+lead_text: "GameJam project: A strategic game where you evolve your virus throught 3 different skill tree to infect a whole building"
 ---
