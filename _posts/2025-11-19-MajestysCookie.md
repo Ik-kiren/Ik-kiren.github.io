@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Majesty s Cookie'
 date: 2025-11-19 14:28:00
 categories: development
